@@ -1,0 +1,123 @@
+{
+  "characterStates": {
+    "Standby": 0,
+    "Farming": 1,
+    "Moving": 2,
+    "Hunting": 3
+  },
+  "resourceTypes": {
+    "Wood": 0,
+    "Stone": 1,
+    "Fish": 2,
+    "Ore": 3,
+    "Wheat": 4,
+    "Berry": 5,
+    "MonsterLoot": 6
+  },
+  "itemTypes": {
+    "WoodAxe": 0,
+    "StoneHammer": 1,
+    "FishingRod": 2,
+    "Pickaxe": 3,
+    "Sickle": 4,
+    "BerryShears": 5,
+    "Sword": 6,
+    "Axe": 7,
+    "Spear": 8,
+    "Bow": 9,
+    "Staff": 10,
+    "Dagger": 11,
+    "Shield": 12,
+    "ClothArmor": 13,
+    "ClothHeadgear": 14,
+    "ClothFootwear": 15,
+    "LeatherArmor": 16,
+    "LeatherHeadgear": 17,
+    "LeatherFootwear": 18,
+    "PlateArmor": 19,
+    "PlateHeadgear": 20,
+    "PlateFootwear": 21,
+    "Mount": 22,
+    "Resource": 23,
+    "SkillItem": 24,
+    "HealingItem": 25,
+    "StatModifierItem": 26,
+    "Card": 27,
+    "BuffItem": 28,
+    "Pet": 29,
+    "GachaTicket": 30,
+    "Skin": 31,
+    "Teleport": 32,
+    "Ring": 33,
+    "Bundle": 34,
+    "CraftingMaterial": 35
+  },
+  "itemCategoryTypes": {
+    "Tool": 0,
+    "Equipment": 1,
+    "OtherItem": 2
+  },
+  "equipmentSlotTypes": {
+    "Weapon": 0,
+    "SubWeapon": 1,
+    "Armor": 2,
+    "Headgear": 3,
+    "Footwear": 4,
+    "Mount": 5,
+    "Pet": 6,
+    "Ring": 7
+  },
+  "skinSlotTypes": {
+    "Weapon": 0,
+    "SubWeapon": 1,
+    "Armor": 2,
+    "Headgear": 3,
+    "Footwear": 4,
+    "Cloak": 5,
+    "Wings": 6,
+    "Aura": 7
+  },
+  "questTypes": {
+    "Contribute": 0,
+    "Locate": 1
+  },
+  "statTypes": {
+    "ATK": 0,
+    "DEF": 1,
+    "AGI": 2
+  },
+  "zoneTypes": {
+    "None": 0,
+    "Black": 1
+  },
+  "terrainTypes": {
+    "GrassLand": 0,
+    "Forest": 1,
+    "Mountain": 2
+  },
+  "advantageType": {
+    "Red": 0,
+    "Green": 1,
+    "Blue": 2,
+    "Grey": 3
+  },
+  "effectType": {
+    "None": 0,
+    "Burn": 1,
+    "Poison": 2,
+    "Frostbite": 3,
+    "Stun": 4,
+    "Crit": 5
+  },
+  "rarityType": {
+    "Common": 0,
+    "Uncommon": 1,
+    "Rare": 2,
+    "Epic": 3,
+    "Legendary": 4
+  },
+  "currencyTypes": {
+    "Gold": 0,
+    "Crystal": 1
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "achievements": {
+    "1": {
+      "id": 1,
+      "name": "Citizen",
+      "content": "You've pledged your loyalty to one of the 4 kingdoms. Your fates are now forever bound.",
+      "instruction": "Create your character.",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "agi": 0
+      }
+    },
+    "3": {
+      "id": 3,
+      "name": "Knight of Valor",
+      "content": "You've proven yourself as one of the renowned knights of the realm. People will love, or fear you until the day you die.",
+      "instruction": "Slay your very first boss in FTK.",
+      "stats": {
+        "atk": 1,
+        "def": 1,
+        "agi": 0
+      },
+      "color": "#E67E22"
+    },
+    "4": {
+      "id": 4,
+      "name": "Firedrake Slayer",
+      "content": "You've slain the ancient Fire Dragon that terrorized the Outer World for so long. This is a feat worthy of lifetime glory.",
+      "instruction": "Defeat Ignis, the Fire Dragon.",
+      "stats": {
+        "atk": 1,
+        "def": 0,
+        "agi": 1
+      },
+      "color": "#ef574c"
+    },
+    "5": {
+      "id": 5,
+      "name": "Forest Sentinel",
+      "content": "Forgotten by most, respected by the know, the Sentinels are the unsung heroes of Sylvanreach. You're now one of them.",
+      "instruction": "Complete a major Sylvanreach questline.",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "agi": 1
+      },
+      "color": "#737E46"
+    },
+    "6": {
+      "id": 6,
+      "name": "Champion of the Mist",
+      "content": "The heroes of Misthaven are like spectres in the fog. You're now one of them.",
+      "instruction": "Complete a major Misthaven questline.",
+      "stats": {
+        "atk": 0,
+        "def": 1,
+        "agi": 0
+      },
+      "color": "#544A74"
+    },
+    "7": {
+      "id": 7,
+      "name": "Winter's Guardian",
+      "content": "Everfrost's winter is as deadly as its guardians. You're now one of them.",
+      "instruction": "Complete a major Everfrost questline.",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "agi": 1
+      },
+      "color": "#7598BD"
+    },
+    "8": {
+      "id": 8,
+      "name": "Desert Moon’s Keeper",
+      "content": "The Moon is guarded with fanatical vigor in Sunscar by its relentless champions. You're now one of them.",
+      "instruction": "Complete a major Sunscar questline.",
+      "stats": {
+        "atk": 0,
+        "def": 1,
+        "agi": 0
+      },
+      "color": "#704E1A"
+    },
+    "9": {
+      "id": 9,
+      "name": "Ascended Soul",
+      "content": "Through countless battles and rebirths, you have transcended mortal limits. Your soul now carries the strength of past lifetimes.",
+      "instruction": "Reborn at level 99 to unlock your true potential.",
+      "stats": {
+        "atk": 3,
+        "def": 3,
+        "agi": 3
+      },
+      "color": "#e0c000"
+    },
+    "10": {
+      "id": 10,
+      "name": "The King",
+      "content": "By right of might and mind, you have claimed the throne. Your reign begins, and history will remember your name.",
+      "instruction": "Become the King of your kingdom.",
+      "stats": {
+        "atk": 15,
+        "def": 15,
+        "agi": 15
+      },
+      "color": "#e0c000"
+    },
+    "11": {
+      "id": 11,
+      "name": "Scalesunder",
+      "content": "You’re now known as the Scalesunder, the one who shattered the scales of the world-serpent and brought down a great myth with your might and resolve.",
+      "instruction": "Defeat Kalyndra the Great Serpent.",
+      "stats": {
+        "atk": 1,
+        "def": 1,
+        "agi": 1
+      },
+      "color": "#e0c000"
+    },
+    "12": {
+      "id": 12,
+      "name": "Bloodmarked",
+      "content": "A warrior freshly baptized in battle, known for leaving trails of blood in the dust of their duels.",
+      "instruction": "Kill 20 enemies in PvP combat.",
+      "stats": {
+        "atk": 1,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "13": {
+      "id": 13,
+      "name": "Renowned Duelist",
+      "content": "Feared in the open field and narrow halls alike, this fighter ends lives with ruthless precision and an unflinching gaze.",
+      "instruction": "Kill 50 enemies in PvP combat.",
+      "stats": {
+        "atk": 2,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "14": {
+      "id": 14,
+      "name": "Warlust Ascendant",
+      "content": "No longer just a soldier, you're now a rising force of violence and hunger, driven by the thrill of conquest and the silence of the fallen.",
+      "instruction": "Kill 100 enemies in PvP combat.",
+      "stats": {
+        "atk": 3,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "15": {
+      "id": 15,
+      "name": "The Great Reaper",
+      "content": "Your true name is rarely mentioned. The legend of your bloody footsteps is spoken with unease in war camps and city squares.",
+      "instruction": "Kill 250 enemies in PvP combat.",
+      "stats": {
+        "atk": 5,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "16": {
+      "id": 16,
+      "name": "Death Incarnate",
+      "content": "You're the God of Death, the incarnate of destruction, a force of nature that cannot be stopped. You are simply unmatched.",
+      "instruction": "Kill 500 enemies in PvP combat.",
+      "stats": {
+        "atk": 10,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "17": {
+      "id": 17,
+      "name": "Vault Keeper",
+      "content": "You are trusted by the King to withdraw resources from the treasury at will.",
+      "instruction": "Granted by the King",
+      "stats": {
+        "atk": 1,
+        "def": 1,
+        "agi": 1
+      },
+      "color": "#e0c000"
+    },
+    "18": {
+      "id": 18,
+      "name": "King Guard",
+      "content": "The loyal blade that strikes down any threat to the King.",
+      "instruction": "Granted by the King",
+      "stats": {
+        "atk": 3,
+        "def": 3,
+        "agi": 3
+      },
+      "color": "#e0c000"
+    },
+    "19": {
+      "id": 19,
+      "name": "Champion of the Realm",
+      "content": "You've earned the title of Champion, and can claim yourself to be the strongest. No one in the realm will dare challenge your authority, until the next tournament begins.",
+      "instruction": "Be the last one standing in FTK's PvP Tournament on our discord.",
+      "stats": {
+        "atk": 0,
+        "def": 0,
+        "agi": 0
+      },
+      "color": "#e0c000"
+    },
+    "20": {
+      "id": 20,
+      "name": "Moonblood Silencer",
+      "content": "You stood beneath the wild moon and spilled the blood of its champion.",
+      "instruction": "Defeat Beowulf the Frostmaw.",
+      "stats": {
+        "atk": 1,
+        "def": 1,
+        "agi": 1
+      },
+      "color": "#e0c000"
+    },
+    "21": {
+      "id": 21,
+      "name": "Guild Member",
+      "content": "You're now a part of a bigger fellowship. Fight until your last breath beside your companions, as no adventurer should face calamities alone.",
+      "instruction": "Join a Guild.",
+      "stats": {
+        "atk": 0,
+        "def": 1,
+        "agi": 1
+      },
+      "color": "#e0c000"
+    }
+  }
+}

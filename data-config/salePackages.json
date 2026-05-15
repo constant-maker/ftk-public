@@ -1,0 +1,60 @@
+{
+  "salePackages": {
+    "1": {
+      "id": 1,
+      "crystalPrice": 10,
+      "goldPrice": 0,
+      "limit": 0,
+      "gold": 0,
+      "achievementIds": null,
+      "itemIds": [
+        437
+      ],
+      "itemAmounts": [
+        1
+      ]
+    },
+    "2": {
+      "id": 2,
+      "crystalPrice": 80,
+      "goldPrice": 0,
+      "limit": 0,
+      "gold": 0,
+      "achievementIds": null,
+      "itemIds": [
+        437
+      ],
+      "itemAmounts": [
+        10
+      ]
+    },
+    "3": {
+      "id": 3,
+      "crystalPrice": 3,
+      "goldPrice": 0,
+      "limit": 0,
+      "gold": 0,
+      "achievementIds": null,
+      "itemIds": [
+        414
+      ],
+      "itemAmounts": [
+        1
+      ]
+    },
+    "4": {
+      "id": 4,
+      "crystalPrice": 27,
+      "goldPrice": 0,
+      "limit": 0,
+      "gold": 0,
+      "achievementIds": null,
+      "itemIds": [
+        414
+      ],
+      "itemAmounts": [
+        10
+      ]
+    }
+  }
+}
