@@ -14,4 +14,10 @@ interface INestSystem {
   function app__harvestNest(uint256 characterId) external;
 
   function app__removeNest(uint256 characterId) external;
+
+  function app__repairNest(uint256 characterId) external;
+
+  function app__cityToNest(uint256 characterId, int32 x, int32 y) external;
+
+  function app__nestToCity(uint256 characterId) external;
 }

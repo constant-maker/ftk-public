@@ -5810,7 +5810,7 @@
       "tier": 4,
       "weight": 1,
       "name": "Essence of Stillness",
-      "desc": "A glowing orb, pulsing like a heartbeat in the snow. It holds the Capybara’s patience and watchfulness.",
+      "desc": "A fragment of quiet patience, reflecting the calm and steady nature of a trusted companion.",
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5823,7 +5823,7 @@
       "tier": 4,
       "weight": 1,
       "name": "Essence of Flow",
-      "desc": "A wisp of energy that dances and swirls. It holds the Capybara’s adaptability and inner strength.",
+      "desc": "A fragment of wandering spirit, carrying the joy of endless journeys across distant lands.",
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5836,7 +5836,7 @@
       "tier": 4,
       "weight": 1,
       "name": "Essence of Flame",
-      "desc": "A burning core of golden-red light. It holds the Capybara’s courage and unwavering will.",
+      "desc": "A fragment of fearless determination, inspiring the courage to charge into the unknown.",
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5849,7 +5849,7 @@
       "tier": 4,
       "weight": 1,
       "name": "Essence of Harmony",
-      "desc": "A green core infused with natural energy. It holds the Capybara’s bond with the world and its tranquil wisdom.",
+      "desc": "A fragment of companionship and trust, binding all other essences into a loyal soul.",
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5864,7 +5864,6 @@
       "name": "Venombloom Petal",
       "desc": "A rare, thorned petal infused with corrosive nectar, used in potent poisons and nature-based enchantments.",
       "droppable": true,
-      "minCrystalPrice": 1,
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5879,7 +5878,6 @@
       "name": "Phantom Waterglide",
       "desc": "A ribbon of living water that never dries. This material is prized by alchemists for elemental rituals.",
       "droppable": true,
-      "minCrystalPrice": 1,
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5894,7 +5892,6 @@
       "name": "Fractured Heartshard",
       "desc": "This frozen and pulsating crystal is said to be the frozen heartbeat of the mountain itself.",
       "droppable": true,
-      "minCrystalPrice": 1,
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -5909,7 +5906,6 @@
       "name": "Molten Core",
       "desc": "A searing-hot ember encased in obsidian that burns and gnaws forever, unless sealed in enchanted stone.",
       "droppable": true,
-      "minCrystalPrice": 1,
       "untradable": false,
       "resourceInfo": {
         "type": 6
@@ -6283,7 +6279,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "369": {
@@ -6306,7 +6302,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "370": {
@@ -6329,7 +6325,7 @@
         "ms": 1,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "371": {
@@ -6352,7 +6348,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "372": {
@@ -6375,7 +6371,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "373": {
@@ -6398,7 +6394,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "374": {
@@ -6421,7 +6417,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "375": {
@@ -6444,7 +6440,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "376": {
@@ -6467,7 +6463,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "377": {
@@ -6490,7 +6486,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "378": {
@@ -6513,7 +6509,7 @@
         "ms": 1,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "379": {
@@ -6536,7 +6532,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "380": {
@@ -6695,7 +6691,7 @@
         "ms": 0,
         "weight": 0,
         "barrier": 0,
-        "isHighGrade": false
+        "isHighGrade": true
       }
     },
     "389": {
@@ -6908,11 +6904,11 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
-        "atkPercent": -5,
+        "atkPercent": -3,
         "defPercent": 0,
         "agiPercent": 0,
         "ms": 0,
@@ -6936,11 +6932,11 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
-        "atkPercent": -10,
+        "atkPercent": -6,
         "defPercent": 0,
         "agiPercent": 0,
         "ms": 0,
@@ -6964,12 +6960,12 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
         "atkPercent": 0,
-        "defPercent": -5,
+        "defPercent": -3,
         "agiPercent": 0,
         "ms": 0,
         "slowPercent": 0,
@@ -6992,12 +6988,12 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
         "atkPercent": 0,
-        "defPercent": -10,
+        "defPercent": -6,
         "agiPercent": 0,
         "ms": 0,
         "slowPercent": 0,
@@ -7020,13 +7016,13 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
         "atkPercent": 0,
         "defPercent": 0,
-        "agiPercent": -5,
+        "agiPercent": -3,
         "ms": 0,
         "slowPercent": 0,
         "sp": 0,
@@ -7048,13 +7044,13 @@
         "range": 3,
         "duration": 1800,
         "selfCastOnly": false,
-        "numTarget": 1,
+        "numTarget": 10,
         "isBuff": false
       },
       "statsModify": {
         "atkPercent": 0,
         "defPercent": 0,
-        "agiPercent": -10,
+        "agiPercent": -6,
         "ms": 0,
         "slowPercent": 0,
         "sp": 0,
@@ -7346,7 +7342,7 @@
         "ms": 0,
         "slowPercent": 0,
         "sp": 0,
-        "dmg": 200,
+        "dmg": 300,
         "isAbsDmg": true
       }
     },
@@ -7374,7 +7370,7 @@
         "ms": 0,
         "slowPercent": 0,
         "sp": 0,
-        "dmg": 400,
+        "dmg": 500,
         "isAbsDmg": true
       }
     },
@@ -7395,16 +7391,16 @@
       "category": 1,
       "tier": 7,
       "weight": 11,
-      "name": "Reinforced Waraxe of Frenzy",
-      "desc": "A brutal axe that pulses with chaotic energy. It's been reinforced by FayLinn's magic for even more devastating damage.",
+      "name": "Damaged Waraxe of Frenzy",
+      "desc": "A brutal axe that pulses with chaotic energy. It's long past its prime.",
       "untradable": true,
       "equipmentInfo": {
         "slotType": 0,
         "advantageType": 2,
         "twoHanded": false,
-        "atk": 160,
-        "def": 31,
-        "agi": 19,
+        "atk": 123,
+        "def": 29,
+        "agi": 15,
         "hp": 0,
         "ms": 0,
         "weight": 0,
@@ -7418,14 +7414,14 @@
       "category": 1,
       "tier": 7,
       "weight": 11,
-      "name": "Exalted Spear of Blazing Fury",
-      "desc": "The scorching spear blazes with searing wrath, now even more dangerous as it's been buffed by FayLinn's magic.",
+      "name": "Damaged Spear of Blazing Fury",
+      "desc": "The scorching spear blazes with searing wrath. It's long past its prime.",
       "untradable": true,
       "equipmentInfo": {
         "slotType": 0,
         "advantageType": 1,
         "twoHanded": false,
-        "atk": 176,
+        "atk": 133,
         "def": 12,
         "agi": 25,
         "hp": 0,
@@ -7441,16 +7437,16 @@
       "category": 1,
       "tier": 7,
       "weight": 11,
-      "name": "Blessed Staff of Adoration",
-      "desc": "An elegant staff imbued with celestial charm. Blessed by FayLinn, t's enthralling magic is even more powerful now.",
+      "name": "Damaged Staff of Adoration",
+      "desc": "An elegant staff imbued with celestial charm. It's long past its prime.",
       "untradable": true,
       "equipmentInfo": {
         "slotType": 0,
         "advantageType": 3,
         "twoHanded": false,
-        "atk": 140,
-        "def": 31,
-        "agi": 11,
+        "atk": 118,
+        "def": 21,
+        "agi": 7,
         "hp": 0,
         "ms": 0,
         "weight": 0,
@@ -7464,16 +7460,16 @@
       "category": 1,
       "tier": 7,
       "weight": 11,
-      "name": "Embered Meteoric Katana",
-      "desc": "This alien blade, now forever burning thanks to FayLinn's magic, cuts through armor and air alike with meteoric grace.",
+      "name": "Damaged Meteoric Katana",
+      "desc": "This alien blade cuts through armor and air alike with meteoric grace. It's long past its prime.",
       "untradable": true,
       "equipmentInfo": {
         "slotType": 0,
         "advantageType": 0,
         "twoHanded": false,
-        "atk": 167,
-        "def": 25,
-        "agi": 19,
+        "atk": 131,
+        "def": 22,
+        "agi": 16,
         "hp": 0,
         "ms": 0,
         "weight": 0,
@@ -7737,7 +7733,11 @@
       "weight": 1,
       "name": "Gold Token",
       "desc": "A token that can be exchanged for the equivalent of 2,500 gold.",
-      "untradable": false
+      "untradable": false,
+      "bundleInfo": {
+        "value": 2500,
+        "bundleType": 1
+      }
     },
     "436": {
       "id": 436,
@@ -8870,6 +8870,563 @@
       "droppable": true,
       "minCrystalPrice": 1,
       "untradable": false
+    },
+    "508": {
+      "id": 508,
+      "type": 33,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Golden Ring of Fire",
+      "desc": "A sturdy golden ring given only to the mighty warriors from a line of nobles dedicated to foster the best knights.",
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 7,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 3,
+        "def": 1,
+        "agi": 3,
+        "hp": 0,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      },
+      "ringInfo": {
+        "effectType": 1,
+        "effectBonus": 10
+      }
+    },
+    "509": {
+      "id": 509,
+      "type": 22,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Brimir the Black Boar",
+      "desc": "A stout and fearless boar companion whose charge and unwavering spirit have carried adventurers through countless battles.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 5,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 0,
+        "def": 0,
+        "agi": 0,
+        "hp": 200,
+        "ms": 1,
+        "weight": 0,
+        "barrier": 100,
+        "isHighGrade": false
+      }
+    },
+    "510": {
+      "id": 510,
+      "type": 22,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Boya the Brown Boar",
+      "desc": "A sturdy brown boar with a hearty appetite and an even bigger heart, always eager to charge headfirst into the next adventure.",
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 5,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 0,
+        "def": 0,
+        "agi": 0,
+        "hp": 500,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "511": {
+      "id": 511,
+      "type": 22,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Cocopan",
+      "desc": "This iconic and delightful panda companion is always ready to waddle faithfully by your side no matter where the journey leads.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 5,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 0,
+        "def": 0,
+        "agi": 0,
+        "hp": 0,
+        "ms": 1,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "512": {
+      "id": 512,
+      "type": 34,
+      "category": 2,
+      "tier": 5,
+      "weight": 1,
+      "name": "Crystal Vessel",
+      "desc": "A raw crystal node that can be extracted into 3 Crystals",
+      "untradable": true,
+      "bundleInfo": {
+        "value": 3,
+        "bundleType": 2
+      }
+    },
+    "513": {
+      "id": 513,
+      "type": 30,
+      "category": 2,
+      "tier": 5,
+      "weight": 1,
+      "name": "Summer Chest",
+      "desc": "A shining treasure chest that's highly sought for by any adventurer. Only available for a limited time.",
+      "untradable": true
+    },
+    "514": {
+      "id": 514,
+      "type": 33,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Ring of Blooming Sakura",
+      "desc": "A delicate ring adorned with a blooming sakura crystal, carrying the fleeting beauty and quiet grace of spring's first petals.",
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 7,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 2,
+        "def": 1,
+        "agi": 2,
+        "hp": 0,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      },
+      "ringInfo": {
+        "effectType": 4,
+        "effectBonus": 15
+      }
+    },
+    "515": {
+      "id": 515,
+      "type": 33,
+      "category": 1,
+      "tier": 5,
+      "weight": 0,
+      "name": "Ring of Living Spores",
+      "desc": "A peculiar ring overgrown with tiny poisonous fungi, pulsing softly with the hidden life of the forest floor.",
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 7,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 1,
+        "def": 2,
+        "agi": 2,
+        "hp": 0,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      },
+      "ringInfo": {
+        "effectType": 2,
+        "effectBonus": 8
+      }
+    },
+    "516": {
+      "id": 516,
+      "type": 31,
+      "category": 2,
+      "tier": 5,
+      "weight": 0,
+      "name": "Toadstool Topper",
+      "desc": "A charming oversized toadstool hat that turns every adventure into a weird mushroomy tale!",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "skinInfo": {
+        "slotType": 3
+      }
+    },
+    "517": {
+      "id": 517,
+      "type": 30,
+      "category": 2,
+      "tier": 6,
+      "weight": 1,
+      "name": "Chest of Forgotten Relics",
+      "desc": "An ancient chest containing the relics of a past world, now long gone. That world laid a foundation on which this world thrives.",
+      "untradable": true
+    },
+    "518": {
+      "id": 518,
+      "type": 13,
+      "category": 1,
+      "tier": 7,
+      "weight": 7,
+      "name": "Damaged Robe of the Royal Assassin",
+      "desc": "Woven from shadows and silken betrayal, this robe grants its wearer an almost spectral presence. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 2,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 31,
+        "def": 20,
+        "agi": 75,
+        "hp": 210,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "519": {
+      "id": 519,
+      "type": 15,
+      "category": 1,
+      "tier": 7,
+      "weight": 5,
+      "name": "Damaged Boots of the Royal Assassin",
+      "desc": "Silent as midnight wind, these boots carry their master across rooftops and through bloodied halls unseen. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 4,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 27,
+        "def": 9,
+        "agi": 46,
+        "hp": 0,
+        "ms": 1,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "520": {
+      "id": 520,
+      "type": 14,
+      "category": 1,
+      "tier": 7,
+      "weight": 5,
+      "name": "Damaged Mask of the Royal Assassin",
+      "desc": "Veiled in mystery, this mask conceals all emotion and reveals nothing but the intent to kill. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 3,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 28,
+        "def": 11,
+        "agi": 50,
+        "hp": 170,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "521": {
+      "id": 521,
+      "type": 16,
+      "category": 1,
+      "tier": 7,
+      "weight": 8,
+      "name": "Damaged Mistborn's Leather Armor",
+      "desc": "Crafted in the fog-cloaked wilds, this armor slips through the senses like a phantom mist. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 2,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 24,
+        "def": 45,
+        "agi": 45,
+        "hp": 320,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "522": {
+      "id": 522,
+      "type": 18,
+      "category": 1,
+      "tier": 7,
+      "weight": 6,
+      "name": "Damaged Mistborn's Boots",
+      "desc": "These boots leave no trace, stepping as if upon fog, favored by those who walk where no trail dares linger. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 4,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 19,
+        "def": 30,
+        "agi": 30,
+        "hp": 0,
+        "ms": 1,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "523": {
+      "id": 523,
+      "type": 17,
+      "category": 1,
+      "tier": 7,
+      "weight": 6,
+      "name": "Damaged Mistborn's Helm",
+      "desc": "A helm etched with runes of silence, worn by those who vanish before the echo of battle fades. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 3,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 15,
+        "def": 32,
+        "agi": 32,
+        "hp": 285,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "524": {
+      "id": 524,
+      "type": 19,
+      "category": 1,
+      "tier": 7,
+      "weight": 9,
+      "name": "Damaged Kingsguard's Heavy Armor",
+      "desc": "A suit of valor-steeped steel, once donned by the royal vanguard who stood against a thousand foes. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 2,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 13,
+        "def": 58,
+        "agi": 9,
+        "hp": 345,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 135,
+        "isHighGrade": false
+      }
+    },
+    "525": {
+      "id": 525,
+      "type": 21,
+      "category": 1,
+      "tier": 7,
+      "weight": 7,
+      "name": "Damaged Kingsguard's Metal Boots",
+      "desc": "Each step in these iron-forged boots resounds with duty, echoing the march of kings' most loyal defenders. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 4,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 10,
+        "def": 48,
+        "agi": 9,
+        "hp": 330,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "526": {
+      "id": 526,
+      "type": 20,
+      "category": 1,
+      "tier": 7,
+      "weight": 7,
+      "name": "Damaged Kingsguard's War Helmet",
+      "desc": "This crowned helm bears the scars of war and the gaze of unwavering honor beneath its steel brow. It's long past its prime.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 3,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 7,
+        "def": 50,
+        "agi": 10,
+        "hp": 330,
+        "ms": 0,
+        "weight": 0,
+        "barrier": 0,
+        "isHighGrade": false
+      }
+    },
+    "527": {
+      "id": 527,
+      "type": 22,
+      "category": 1,
+      "tier": 7,
+      "weight": 0,
+      "name": "Behemoth",
+      "desc": "An ancient beast forged for apocalyptic warfare, moving at a terrifyingly slow pace while unleashing earth-shattering hellfire that devastate enemies from afar with overwhelming destructive force. Bound by blood, it crumbles into dust when its rider falls.",
+      "minCrystalPrice": 10,
+      "untradable": false,
+      "equipmentInfo": {
+        "slotType": 5,
+        "advantageType": 0,
+        "twoHanded": false,
+        "atk": 50,
+        "def": 50,
+        "agi": 0,
+        "hp": 5000,
+        "ms": 0,
+        "weight": 500,
+        "barrier": 250,
+        "isHighGrade": false
+      }
+    },
+    "528": {
+      "id": 528,
+      "type": 34,
+      "category": 2,
+      "tier": 4,
+      "weight": 1,
+      "name": "Gold Bag",
+      "desc": "A mysterious bag of goodies that contains 1,000 gold.",
+      "untradable": false,
+      "bundleInfo": {
+        "value": 1000,
+        "bundleType": 1
+      }
+    },
+    "529": {
+      "id": 529,
+      "type": 34,
+      "category": 2,
+      "tier": 3,
+      "weight": 1,
+      "name": "Small Gold Bag",
+      "desc": "A small bag of goodies that contains 200 gold.",
+      "untradable": false,
+      "bundleInfo": {
+        "value": 200,
+        "bundleType": 1
+      }
+    },
+    "530": {
+      "id": 530,
+      "type": 25,
+      "category": 2,
+      "tier": 1,
+      "weight": 2,
+      "name": "[E] Small Healing Potion",
+      "desc": "A small potion that restores a small amount of health.Cannot be traded.",
+      "untradable": true,
+      "healingInfo": {
+        "hpRestore": 50
+      }
+    },
+    "531": {
+      "id": 531,
+      "type": 25,
+      "category": 2,
+      "tier": 2,
+      "weight": 2,
+      "name": "[E] Common Healing Potion",
+      "desc": "A reliable remedy that restores moderate health.Cannot be traded.",
+      "untradable": true,
+      "healingInfo": {
+        "hpRestore": 100
+      }
+    },
+    "532": {
+      "id": 532,
+      "type": 25,
+      "category": 2,
+      "tier": 3,
+      "weight": 2,
+      "name": "[E] Greater Healing Potion",
+      "desc": "An enhanced mixture that provides substantial healing power. Cannot be traded.",
+      "untradable": true,
+      "healingInfo": {
+        "hpRestore": 200
+      }
+    },
+    "533": {
+      "id": 533,
+      "type": 25,
+      "category": 2,
+      "tier": 4,
+      "weight": 2,
+      "name": "[E] Grand Healing Potion",
+      "desc": "A potent blend that rapidly restores significant health. Cannot be traded.",
+      "untradable": true,
+      "healingInfo": {
+        "hpRestore": 300
+      }
+    },
+    "534": {
+      "id": 534,
+      "type": 25,
+      "category": 2,
+      "tier": 5,
+      "weight": 2,
+      "name": "[E] Master Healing Potion",
+      "desc": "An expertly crafted elixir that provides powerful healing. Cannot be traded.",
+      "untradable": true,
+      "healingInfo": {
+        "hpRestore": 400
+      }
+    },
+    "535": {
+      "id": 535,
+      "type": 35,
+      "category": 2,
+      "tier": 6,
+      "weight": 10,
+      "name": "[E] Valtherium",
+      "desc": "A rare metal discovered in the ruins of the ancients, known for its unmatched hardness and durability. Can be used to upgrade tier 6 equipment. Cannot be traded.",
+      "untradable": true
+    },
+    "536": {
+      "id": 536,
+      "type": 34,
+      "category": 2,
+      "tier": 4,
+      "weight": 1,
+      "name": "Tiny Gold Bag",
+      "desc": "A minisclue bag of goodies that contains 50 little gold coins.",
+      "untradable": false,
+      "bundleInfo": {
+        "value": 50,
+        "bundleType": 1
+      }
     }
   }
 }

@@ -14,4 +14,6 @@ interface ICharacterSystem {
   function app__revokeSessionWallet(uint256 characterId) external;
 
   function app__linkMainAccount(uint256 characterId, address newOwner) external;
+
+  function app__requestChangeKingdom(uint256 characterId, uint8 kingdomId) external;
 }

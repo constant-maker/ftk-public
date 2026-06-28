@@ -15,6 +15,8 @@ interface IPortalSystem {
 
   function app__transferCrystal(uint256 fromCharacterId, uint256 toCharacterId, uint256 amount) external;
 
+  function app__tip(uint256 fromCharacterId, uint256 toCharacterId) external;
+
   function app__requestSellCrystal(uint256 characterId, uint256 amount) external;
 
   function app__cancelSellCrystal(uint256 characterId, uint256 reqId) external;

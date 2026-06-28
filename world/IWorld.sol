@@ -13,10 +13,12 @@ import { ICraftSystem } from "./ICraftSystem.sol";
 import { IDailyQuestSystem } from "./IDailyQuestSystem.sol";
 import { IDropSystem } from "./IDropSystem.sol";
 import { IEquipmentSystem } from "./IEquipmentSystem.sol";
+import { IExpeditionSystem } from "./IExpeditionSystem.sol";
 import { IFarmingSystem } from "./IFarmingSystem.sol";
 import { IGuildSystem } from "./IGuildSystem.sol";
 import { IKingSystem } from "./IKingSystem.sol";
 import { ILevelSystem } from "./ILevelSystem.sol";
+import { IMailboxSystem } from "./IMailboxSystem.sol";
 import { IMarketSystem } from "./IMarketSystem.sol";
 import { IMoveSystem } from "./IMoveSystem.sol";
 import { INestSystem } from "./INestSystem.sol";
@@ -31,6 +33,7 @@ import { ISaleSystem } from "./ISaleSystem.sol";
 import { ISkillSystem } from "./ISkillSystem.sol";
 import { ISkinSystem } from "./ISkinSystem.sol";
 import { IStorageSystem } from "./IStorageSystem.sol";
+import { ISubscriptionSystem } from "./ISubscriptionSystem.sol";
 import { ITileSystem } from "./ITileSystem.sol";
 import { IVaultSystem } from "./IVaultSystem.sol";
 import { IWelcomeSystem } from "./IWelcomeSystem.sol";
@@ -53,10 +56,12 @@ interface IWorld is
   IDailyQuestSystem,
   IDropSystem,
   IEquipmentSystem,
+  IExpeditionSystem,
   IFarmingSystem,
   IGuildSystem,
   IKingSystem,
   ILevelSystem,
+  IMailboxSystem,
   IMarketSystem,
   IMoveSystem,
   INestSystem,
@@ -71,6 +76,7 @@ interface IWorld is
   ISkillSystem,
   ISkinSystem,
   IStorageSystem,
+  ISubscriptionSystem,
   ITileSystem,
   IVaultSystem,
   IWelcomeSystem

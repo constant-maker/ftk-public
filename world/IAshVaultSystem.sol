@@ -9,12 +9,7 @@ pragma solidity >=0.8.24;
  * @dev This interface is automatically generated from the corresponding system contract. Do not edit manually.
  */
 interface IAshVaultSystem {
-  function app__addToAshVault(
-    uint256 characterId,
-    uint256 capitalId,
-    uint256[] calldata itemIds,
-    uint32[] calldata amounts
-  ) external;
+  function app__addToAshVault(uint256 characterId, uint256[] calldata itemIds, uint32[] calldata amounts) external;
 
   function app__exchangeItem(uint256 characterId, uint256 recipeId, uint32 amount) external;
 }

@@ -12,7 +12,7 @@ import { VaultRestrictionParam } from "@common/Types.sol";
  * @dev This interface is automatically generated from the corresponding system contract. Do not edit manually.
  */
 interface IKingSystem {
-  function app__registerKing(uint256 characterId, string memory promiseSummary) external;
+  function app__registerKing(uint256 characterId, uint32 commitFame, string memory promiseSummary) external;
 
   function app__assignKing(uint8 kingdomId) external;
 
@@ -37,4 +37,8 @@ interface IKingSystem {
   function app__setWithdrawWeightLimit(uint256 characterId, uint32 weightLimit) external;
 
   function app__setWithdrawRestriction(uint256 characterId, VaultRestrictionParam[] calldata data) external;
+
+  function app__acceptChangeKingdomReq(uint256 characterId, uint256 requesterId) external;
+
+  function app__rejectChangeKingdomReq(uint256 characterId, uint256 requesterId) external;
 }

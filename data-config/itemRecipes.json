@@ -4587,126 +4587,6 @@
       ],
       "goldCost": 500
     },
-    "368": {
-      "itemId": 368,
-      "perkTypes": [
-        2
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "369": {
-      "itemId": 369,
-      "perkTypes": [
-        1
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "370": {
-      "itemId": 370,
-      "perkTypes": [
-        4
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "371": {
-      "itemId": 371,
-      "perkTypes": [
-        1
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "372": {
-      "itemId": 372,
-      "perkTypes": [
-        0
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 15000
-    },
-    "373": {
-      "itemId": 373,
-      "perkTypes": [
-        2
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "374": {
-      "itemId": 374,
-      "perkTypes": [
-        4
-      ],
-      "perkLevels": [
-        6
-      ],
-      "fameCost": 7500
-    },
-    "375": {
-      "itemId": 375,
-      "perkTypes": [
-        5
-      ],
-      "perkLevels": [
-        5
-      ],
-      "fameCost": 2000
-    },
-    "376": {
-      "itemId": 376,
-      "perkTypes": [
-        3
-      ],
-      "perkLevels": [
-        5
-      ],
-      "fameCost": 4000
-    },
-    "377": {
-      "itemId": 377,
-      "perkTypes": [
-        1
-      ],
-      "perkLevels": [
-        5
-      ],
-      "fameCost": 2000
-    },
-    "378": {
-      "itemId": 378,
-      "perkTypes": [
-        2
-      ],
-      "perkLevels": [
-        5
-      ],
-      "fameCost": 2000
-    },
-    "379": {
-      "itemId": 379,
-      "perkTypes": [
-        0
-      ],
-      "perkLevels": [
-        5
-      ],
-      "fameCost": 2000
-    },
     "385": {
       "itemId": 385,
       "ingredients": [
@@ -5306,6 +5186,358 @@
         }
       ],
       "goldCost": 50
+    },
+    "510": {
+      "itemId": 510,
+      "ingredients": [
+        {
+          "id": 344,
+          "amount": 1
+        },
+        {
+          "id": 345,
+          "amount": 1
+        },
+        {
+          "id": 346,
+          "amount": 1
+        },
+        {
+          "id": 347,
+          "amount": 1
+        }
+      ],
+      "goldCost": 500
+    },
+    "518": {
+      "itemId": 518,
+      "perkTypes": [
+        0
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 348,
+          "amount": 10
+        },
+        {
+          "id": 74,
+          "amount": 20
+        },
+        {
+          "id": 81,
+          "amount": 20
+        },
+        {
+          "id": 96,
+          "amount": 20
+        },
+        {
+          "id": 104,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "519": {
+      "itemId": 519,
+      "perkTypes": [
+        4
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 349,
+          "amount": 10
+        },
+        {
+          "id": 114,
+          "amount": 20
+        },
+        {
+          "id": 73,
+          "amount": 20
+        },
+        {
+          "id": 80,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "520": {
+      "itemId": 520,
+      "perkTypes": [
+        5
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 350,
+          "amount": 10
+        },
+        {
+          "id": 106,
+          "amount": 20
+        },
+        {
+          "id": 97,
+          "amount": 20
+        },
+        {
+          "id": 80,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "521": {
+      "itemId": 521,
+      "perkTypes": [
+        2
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 351,
+          "amount": 10
+        },
+        {
+          "id": 90,
+          "amount": 20
+        },
+        {
+          "id": 97,
+          "amount": 20
+        },
+        {
+          "id": 5,
+          "amount": 20
+        },
+        {
+          "id": 104,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "522": {
+      "itemId": 522,
+      "perkTypes": [
+        0
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 348,
+          "amount": 10
+        },
+        {
+          "id": 74,
+          "amount": 10
+        },
+        {
+          "id": 98,
+          "amount": 10
+        },
+        {
+          "id": 113,
+          "amount": 20
+        },
+        {
+          "id": 80,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "523": {
+      "itemId": 523,
+      "perkTypes": [
+        0
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 349,
+          "amount": 10
+        },
+        {
+          "id": 74,
+          "amount": 10
+        },
+        {
+          "id": 98,
+          "amount": 10
+        },
+        {
+          "id": 97,
+          "amount": 20
+        },
+        {
+          "id": 88,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "524": {
+      "itemId": 524,
+      "perkTypes": [
+        3
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 350,
+          "amount": 10
+        },
+        {
+          "id": 98,
+          "amount": 20
+        },
+        {
+          "id": 81,
+          "amount": 20
+        },
+        {
+          "id": 5,
+          "amount": 20
+        },
+        {
+          "id": 112,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "525": {
+      "itemId": 525,
+      "perkTypes": [
+        1
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 351,
+          "amount": 10
+        },
+        {
+          "id": 82,
+          "amount": 20
+        },
+        {
+          "id": 89,
+          "amount": 20
+        },
+        {
+          "id": 5,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "526": {
+      "itemId": 526,
+      "perkTypes": [
+        3
+      ],
+      "perkLevels": [
+        7
+      ],
+      "ingredients": [
+        {
+          "id": 348,
+          "amount": 10
+        },
+        {
+          "id": 74,
+          "amount": 10
+        },
+        {
+          "id": 98,
+          "amount": 10
+        },
+        {
+          "id": 105,
+          "amount": 20
+        },
+        {
+          "id": 96,
+          "amount": 20
+        }
+      ],
+      "goldCost": 280
+    },
+    "527": {
+      "itemId": 527,
+      "ingredients": [
+        {
+          "id": 98,
+          "amount": 200
+        },
+        {
+          "id": 74,
+          "amount": 200
+        },
+        {
+          "id": 97,
+          "amount": 3000
+        },
+        {
+          "id": 73,
+          "amount": 3000
+        },
+        {
+          "id": 113,
+          "amount": 3000
+        },
+        {
+          "id": 105,
+          "amount": 3000
+        },
+        {
+          "id": 89,
+          "amount": 3000
+        },
+        {
+          "id": 81,
+          "amount": 3000
+        },
+        {
+          "id": 258,
+          "amount": 25
+        },
+        {
+          "id": 259,
+          "amount": 25
+        },
+        {
+          "id": 260,
+          "amount": 25
+        },
+        {
+          "id": 261,
+          "amount": 25
+        }
+      ],
+      "goldCost": 50000
     }
   }
 }
